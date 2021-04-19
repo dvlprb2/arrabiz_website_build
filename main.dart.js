@@ -36033,7 +36033,7 @@ M.Ba.prototype={
 R:function(a,b){var s,r=null,q=L.e5("Copyright \xa9 2021 Awadh Techsol LLP.")
 q.dy=K.bt(b).ak.z
 s=t.fQ
-s=M.dl(F.RN(H.c([q.b_(),F.RN(H.c([B.ace(L.acd(C.FL,C.pu),40,new M.Ra(this)),B.ace(L.acd(C.FK,C.pu),40,new M.Rb(this))],s),C.kx,C.aG)],s),C.fS,C.aG))
+s=M.dl(F.RN(H.c([q.b_(),F.RN(H.c([B.ace(L.acd(C.FL,C.pu),30,new M.Ra(this)),B.ace(L.acd(C.FK,C.pu),30,new M.Rb(this))],s),C.kx,C.aG)],s),C.fS,C.aG))
 q=t.w
 s.r=b.a4(q).f.a.a
 s.f=64
