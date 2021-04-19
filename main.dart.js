@@ -35919,7 +35919,7 @@ P.Kk.prototype={}
 U.rE.prototype={
 aL:function(){return new U.Hv(C.m)}}
 U.Hv.prototype={
-R:function(a,a0){var s,r,q,p,o,n="Features",m=null,l="What we offer",k="invoice.png",j="Create your Estimates & Invoices",i="Create estimates and invoices on the go. Maintain an easy flow of creating estimates for your services & products with convert to invoice option.",h="backup.png",g="Safe and Quick Data Backup",f="Providing an smooth data backup option with GOOGLE DRIVE with daily, weekly, monthly and when I tap backup options to keep your data safe & secure",e="reports.png",d="Detailed and Accurate Reports",c="View monthly sales reports with ease and differentiate with PAID & UNPAID invoices on a single click, we have made it easy to track your business with detailed reports.",b=L.e3(n).glp()
+R:function(a,a0){var s,r,q,p,o,n="Features",m=null,l="What we offer",k="assets/invoice.png",j="Create your Estimates & Invoices",i="Create estimates and invoices on the go. Maintain an easy flow of creating estimates for your services & products with convert to invoice option.",h="assets/backup.png",g="Safe and Quick Data Backup",f="Providing an smooth data backup option with GOOGLE DRIVE with daily, weekly, monthly and when I tap backup options to keep your data safe & secure",e="assets/reports.png",d="Detailed and Accurate Reports",c="View monthly sales reports with ease and differentiate with PAID & UNPAID invoices on a single click, we have made it easy to track your business with detailed reports.",b=L.e3(n).glp()
 b.dy=K.bz(a0).ak.z
 b.f=2
 b.r=1
@@ -35986,7 +35986,7 @@ M.B8.prototype={
 R:function(a,b){var s,r=null,q=L.e3("Copyright \xa9 2021 Awadh Techsol LLP.")
 q.dy=K.bz(b).ak.z
 s=t.fQ
-s=M.dc(F.RL(H.c([q.aX(),F.RL(H.c([R.SC(!1,!0,G.Zn("instagram.svg",C.ps,40),r,!0,r,r,r,r,r,r,r,r,r,new M.R8(this),r,r,r),new T.dN(10,r,r,r),R.SC(!1,!0,G.Zn("github.svg",C.ps,40),r,!0,r,r,r,r,r,r,r,r,r,new M.R9(this),r,r,r)],s),C.kv,C.aG)],s),C.fR,C.aG))
+s=M.dc(F.RL(H.c([q.aX(),F.RL(H.c([R.SC(!1,!0,G.Zn("assets/instagram.svg",C.ps,40),r,!0,r,r,r,r,r,r,r,r,r,new M.R8(this),r,r,r),new T.dN(10,r,r,r),R.SC(!1,!0,G.Zn("assets/github.svg",C.ps,40),r,!0,r,r,r,r,r,r,r,r,r,new M.R9(this),r,r,r)],s),C.kv,C.aG)],s),C.fR,C.aG))
 s.r=b.a5(t.w).f.a.a
 s.f=64
 q=s.gtE()
@@ -36014,7 +36014,7 @@ $S:132}
 U.rR.prototype={
 aL:function(){return new U.HU(C.m)}}
 U.HU.prototype={
-R:function(a,b){var s,r,q,p,o,n,m,l=null,k="logo.png",j="Empowering your \nBusiness process",i="We have initiated a free & open source app for all small businesses \nto easily do invoicing and view reports of day to day business.",h="Try it now",g="mockup.png",f="waves.svg",e=$.aij(),d=M.dc(B.abZ(l,new L.kV(k,l,l),new M.iq(e)))
+R:function(a,b){var s,r,q,p,o,n,m,l=null,k="assets/logo.png",j="Empowering your \nBusiness process",i="We have initiated a free & open source app for all small businesses \nto easily do invoicing and view reports of day to day business.",h="Try it now",g="assets/mockup.png",f="assets/waves.svg",e=$.aij(),d=M.dc(B.abZ(l,new L.kV(k,l,l),new M.iq(e)))
 d.z=S.FO(0,24)
 d=d.aX()
 s=L.e3("Arrabiz").glp()
